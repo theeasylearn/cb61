@@ -7,10 +7,14 @@
 
 decision making exercise 
 -----------------------
-if exercise 
+simple if  
 --------------------------------
-1) write a program to accept gujarati month number from user. then display name of festival come in given month 
+1) write a program to accept gujarati month number from user. then display name of festival come in given month.  
 2) write a program to accept week day number from user. then display name of day. 
+// input : 1 output : monday 
+// input : 2 output : tuesday 
+// input : 3 output : wednesday
+ 
 
 if else exercise 
 ----------------------------------
