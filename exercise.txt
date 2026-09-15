@@ -22,7 +22,7 @@ if else exercise
 
 2) write a program to findout whether given year is golden jubilee or not from current year and  marriage year 
 
-3) write a program to findout which shape is lesser in area from given length and width. 
+3) write a program to findout which shape is lesser in two different farm from given length and width of two farm. 
 
 if else ladder 
 
@@ -44,7 +44,6 @@ otherwise       Poor
 6.00 to 11.59
 show message Good Morning
 
-
 Good Afternoon
 12 to  17
 show message : Good Afternoon 
@@ -62,9 +61,8 @@ temperature       Fever Type
 --------------------------------  
 99.1∘F−100.4∘F	  Low-grade	
 100.6∘F−102.2∘F	  Moderate
-102.4∘F−105.8∘F	  High-grade	
+102.3∘F−105.8∘F	  High-grade	
 >106.0∘F	      Hyperpyrexia
-
 
 4) write a program to findout obesity level of person in india from given height and weight. 
 
