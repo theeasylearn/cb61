@@ -74,6 +74,24 @@ switch(variable)
     default:
         // code block 4
 }
+example
+
+int a = 10, b = 3, result;
+switch(choice)
+{
+    case 1: //choice == 1
+        result = a + b;
+    break;
+    case 2: //choice == 2
+        result = a - b;
+    break;
+    case 3: //choice == 3
+        result = a * b;
+    break;
+    default:
+        printf("invalid choice");
+    break;
+}
 
 5) nested decision making statements.
 --------------------------------------------------------------------

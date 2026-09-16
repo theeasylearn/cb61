@@ -78,6 +78,12 @@ Overweight	        23.0−24.9
 Obesity Class I	    25.0−29.9	        
 Obesity Class II	≥30.0	         
 
+switch decision making 
+---------------------------------------------------------------
+1) write a program to accept two number from user. and then do addition or subtraction or multiplication or division based upon user choice. choice should be in 1 to 4 and use switch decision making statement 
+
+2) write a program to accept day of week as number from user. and then display Day and night choghadiya. 
+
 
 nested decision making
 
