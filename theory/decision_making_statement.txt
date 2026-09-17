@@ -96,4 +96,67 @@ switch(choice)
 5) nested decision making statements.
 --------------------------------------------------------------------
    when we use one type of decision making statements inside any other types of decision making statements, it is called nested decision making statements. we can use any of level.
+   1st example 
+   ------------------------------------------------------------------------
+   if (relational_expression)
+   {
+        if(relational_expression)
+        {
 
+        }
+        else 
+        {
+
+        }
+   } 
+   else 
+   {
+        if(relational_expression)
+        {
+
+        }
+        else 
+        {
+
+        }
+   } 
+
+   2nd example 
+   ------------------------------------------------
+   if(relational_expression)
+   {
+        switch(choice)
+        {
+            case 1: //choice == 1
+                result = a + b;
+            break;
+            case 2: //choice == 2
+                result = a - b;
+            break;
+            case 3: //choice == 3
+                result = a * b;
+            break;
+            default:
+                printf("invalid choice");
+            break;
+        }
+   }
+   else 
+   {
+        if (relational_expression)
+        {
+        //some code will execute only if above relational_expression is true 
+        }
+        else if(relational_expression)
+        {
+        //this code block will execute  only if above relational_expression is true 
+        }
+        else if(relational_expression)
+        {
+        //this code block will execute only if above relational_expression is true 
+        }
+        else 
+        {
+        //this code block will execute if all relational_expression are false. 
+        }
+   }
