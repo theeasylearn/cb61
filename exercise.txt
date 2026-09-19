@@ -109,8 +109,7 @@ loop
 9) write a program to calculate compound interest of given amount, rate, year. 
 
 
-9) write a program to findout whether given number is perfect number or not. 
-these are sum perfect number 
+9) write a program to findout whether given number is perfect number or not. these are sum perfect number 
 
 6
 28
