@@ -47,12 +47,13 @@ use wise categories of operators
    if expressions has relational operator, it is called relational expressions. 
 
 3) logical operators.
-    there may be some situation where we need to use multiple relational operations in one line. 
-    a < b logical operator b < c 
-    in above line we must use logical operator (&&) or (||) between two relational expressions.
+    there may be some situation where we need to use multiple relational expression in one line. 
+    for example  a < b b < c in such situation, we need to use one logical operator between two relational expression. it is rule 
+    a < b logical operator b < c .
+    in above line we must use logical operator and (&&)  or (||) between two relational expressions.
 
-    logical operators are used to join two or more relational expressions and it also returns either 1 or 0. there are 3 logical operators
-         for example 
+    logical operators are used to join two or more relational expressions and it also returns either 1 or 0. there are 3 logical operators.
+         for example. 
          (1)   (2)
          a < b logical-operator b > c 
          a < b && b > c 
