@@ -150,13 +150,16 @@ Z -  X -  V -  T -  R - A
 do while 
 -----------------
 1) write a program findout whether given perfect number or not 
-2) write a program to findout whether given number is palindrome number or not 
-3) write a program to findout whether given number is prime number or not 
+2) write a program findout whether given number A Harshad Number no or not. 
+3) write a program findout whether given number A duck Number no or not. 
+4) write a program findout whether given number A Neon Number no or not. 
+5) write a program findout whether given number A spy Number no or not. 
 
 nested loop 
-1 4 27 256 3125 ........ 10000
+1) 1 4 27 256 3125 ........ 10000
 
 
+2) 
 1
 1 0
 1 0 1
@@ -164,43 +167,48 @@ nested loop
 1 0 1 0 1
 
 
+3) 
 A 
 A B 
 A B C
 A B C D
 A B C D E 
 
-
+4)
 E
 E D
 E D C
 E D C B
 E D C B A
 
-
+5)
 1
 2 3
 4 5 6 
 7 8 9 10
 
-
+6)
 1 2 3 4 5
 1 2 3 4
 1 2 3
 1 2
 1
 
+7)
 1 0 1 0 1
 1 0 1 0
 1 0 1
 1 0
 1
 
+8)
           1
          2  1
         2  1  2
        1  2  1  2
       1  2  1  2  1
+
+9) write a program to findout whether given number is strong number or not. 
 
 
 array 
